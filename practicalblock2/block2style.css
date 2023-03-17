@@ -1,0 +1,59 @@
+/* Comment or uncomment this first border setting to allow you to see the borders of elements */
+* {
+    border: 1px solid black;
+}
+
+body {
+    margin: 0px;
+}
+
+/* * {
+border: 1px solid black;
+} */
+
+h1 {
+    background-color: #62ded5;
+    /* padding: 0px;
+    margin: 0px; */
+
+}
+
+h2 {
+    background-color: #62ded5;
+    /* padding: 0px; */
+    /* margin: 0px; */
+}
+h2 {
+    background-color: #94ede6;
+    /* padding: 0px; */
+    /* margin: 0px; */
+}
+
+#nav {
+    background-color: #338487;
+    text-align: right;
+    /* padding: 0px; */
+    /* margin: 0px; */
+}
+
+p {
+    background-color: #94ede6;
+    /* padding: 0px; */
+    /* margin: 0px; */
+}
+
+#container {
+    background-color: #62ded5;
+    margin: auto;
+    /* padding: 0px; */
+    /* margin: 0px; */
+}
+
+a {
+    /* padding: 0px; */
+
+}
+
+img {
+    
+}
